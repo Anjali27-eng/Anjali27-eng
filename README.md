@@ -1,4 +1,4 @@
-﻿# Hi, I'm Anjali 👋
+<h1 align="center">Hi 👋, I'm Anjali Rajole</h1>
 <!-- Banner -->
 <p align="center">
   <!-- First Banner -->
@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anjali Rajole</h1>
+
 <h3 align="center">Full Stack Java Developer | Spring Boot · Angular · AWS | Software Engineer</h3>
 
 ---
@@ -126,6 +126,7 @@ If you’d like to collaborate or improve any of my projects, feel free to open 
 <p align="center">
 ✨ Thank you for visiting my profile! ✨  
 </p>
+
 
 
 
