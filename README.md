@@ -62,10 +62,9 @@ Hi! I'm **Anjali**, a passionate Full Stack Developer who loves exploring new te
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
-## 🔝 Top Skills & Languages
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/DSA-Intermediate-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/HTML5-Advanced-red?style=flat-square" />
   <img src="https://img.shields.io/badge/CSS3-Advanced-blue?style=flat-square" />
@@ -127,6 +126,7 @@ If you’d like to collaborate or improve any of my projects, feel free to open 
 <p align="center">
 ✨ Thank you for visiting my profile! ✨  
 </p>
+
 
 
 
