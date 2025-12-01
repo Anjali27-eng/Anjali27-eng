@@ -1,8 +1,9 @@
 ﻿# Hi, I'm Anjali 👋
- <!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Anjali27-eng/Anjali27-eng/assets/123456789/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anjali27-eng/Anjali27-eng/master/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Anjali Rajole</h1>
 <h3 align="center">Full Stack Java Developer | Spring Boot · Angular · AWS | Software Engineer</h3>
@@ -109,5 +110,6 @@ If you’d like to collaborate or improve any of my projects, feel free to open 
 <p align="center">
 ✨ Thank you for visiting my profile! ✨  
 </p>
+
 
 
