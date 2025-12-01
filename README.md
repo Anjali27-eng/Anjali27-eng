@@ -1,8 +1,10 @@
 ﻿# Hi, I'm Anjali 👋
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anjali27-eng/Anjali27-eng/master/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
+  <!-- First Banner -->
+  <img src="https://raw.githubusercontent.com/Anjali27-eng/Anjali27-eng/master/1.png" alt="Banner 2" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Anjali Rajole</h1>
@@ -110,6 +112,7 @@ If you’d like to collaborate or improve any of my projects, feel free to open 
 <p align="center">
 ✨ Thank you for visiting my profile! ✨  
 </p>
+
 
 
 
