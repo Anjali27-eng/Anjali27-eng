@@ -66,10 +66,16 @@ Hi! I'm **Anjali**, a passionate Full Stack Developer who loves exploring new te
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjali27-eng&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali27-eng&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjali27-eng&theme=tokyonight" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjali27-eng&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjali27-eng&theme=tokyonight" height="170" />
+</p>
+
 
 ---
 
@@ -112,6 +118,7 @@ If you’d like to collaborate or improve any of my projects, feel free to open 
 <p align="center">
 ✨ Thank you for visiting my profile! ✨  
 </p>
+
 
 
 
